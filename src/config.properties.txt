@@ -1,0 +1,2 @@
+maxLinkLifetime=3600
+maxClicks=10
